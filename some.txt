@@ -1,0 +1,1 @@
+Hi this is second way creating the repo in git
